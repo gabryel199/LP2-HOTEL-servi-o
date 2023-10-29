@@ -1,0 +1,131 @@
+{
+  
+  "servico": [
+    {
+      "id": 1,
+      "titulo": "academia",
+      "descricao": "xxxxxxxxxxxx",
+      "valorhorario": 5.50,
+      "status": "ativo",
+      "tipoReserva": true,
+      "hotel_id": 1,
+      "tipoServico_id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "spa",
+      "descricao": "xxxxxxxxxxxx",
+      "valorhorario": 5.50,
+      "status": "ativo",
+      "tipoReserva": true,
+      "hotel_id": 1,
+      "tipoServico_id": 2
+    },
+    {
+      "id": 3,
+      "titulo": "quadra de tenis",
+      "descricao": "xxxxxxxxxxxx",
+      "valorhorario": 5.50,
+      "status": "ativo",
+      "tipoReserva": true,
+      "hotel_id": 1,
+      "tipoServico_id": 3
+    },
+    {
+      "id": 4,
+      "titulo": "cafe da manha",
+      "descricao": "xxxxxxxxxxxx",
+      "valorhorario": 5.50,
+      "status": "ativo",
+      "tipoReserva": false,
+      "hotel_id": 1,
+      "tipoServico_id": 4
+    }
+  ],
+  "tipoServico": [
+    {
+      "id": 1,
+      "titulo": "ativvidade",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 2,
+      "titulo": "lazer",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 3,
+      "titulo": "atividade ar livre",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 4,
+      "titulo": "refeicao",
+      "descricao": "zzzzz"
+    }
+  ],
+  "horarioServico": [
+    {
+      "id": 1,
+      "status": "disponivel",
+      "vagasTotal": 10,
+      "vagasOcupadas": 4,
+      "horarioInicio": "16:00",
+      "horarioFim": "18:00",
+      "data": "12/12/2012",
+      "serivco_id": 1
+    },
+    {
+      "id": 2,
+      "status": "cheio",
+      "vagasTotal": 10,
+      "vagasOcupadas": 10,
+      "horarioInicio": "16:00",
+      "horarioFim": "18:00",
+      "data": "12/12/201,
+      "serivco_id": 2
+    },
+    {
+      "id": 3,
+      "status": "manutenção",
+      "vagasTotal": 10,
+      "vagasOcupadas": 0,
+      "horarioInicio": "16:00",
+      "horarioFim": "18:00",
+      "data": "12/12/201,
+      "serivco_id": 3
+    },
+    {
+      "id": 4,
+      "status": "disponivel",
+      "vagasTotal": 10,
+      "vagasOcupadas": 4,
+      "horarioInicio": "16:00",
+      "horarioFim": "18:00",
+      "data": "12/12/201,
+      "serivco_id": 4
+    }
+  ],
+  "listaHorarios": [
+    {
+      "id": 1,
+      "horarioServico_id": 1,
+      "servicoReserva_id": 1,
+    },
+    {
+      "id": 2,
+      "horarioServico_id": 2,
+      "servicoReserva_id": 2,
+    },
+    {
+      "id": 3,
+      "horarioServico_id": 3,
+      "servicoReserva_id": 3,
+    },
+    {
+      "id": 4,
+      "horarioServico_id": 4,
+      "servicoReserva_id": 4,
+    }
+  ]
+}
