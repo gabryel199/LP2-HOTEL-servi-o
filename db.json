@@ -110,22 +110,22 @@
     {
       "id": 1,
       "horarioServico_id": 1,
-      "servicoReserva_id": 1,
+      "servicoReserva_id": 1
     },
     {
       "id": 2,
       "horarioServico_id": 2,
-      "servicoReserva_id": 2,
+      "servicoReserva_id": 2
     },
     {
       "id": 3,
       "horarioServico_id": 3,
-      "servicoReserva_id": 3,
+      "servicoReserva_id": 3
     },
     {
       "id": 4,
       "horarioServico_id": 4,
-      "servicoReserva_id": 4,
+      "servicoReserva_id": 4
     }
   ]
 }
