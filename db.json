@@ -72,7 +72,7 @@
       "vagasOcupadas": 4,
       "horarioInicio": "16:00",
       "horarioFim": "18:00",
-      "data": "12/12/2012",
+      "data": "2012-12-12",
       "serivco_id": 1
     },
     {
@@ -82,7 +82,7 @@
       "vagasOcupadas": 10,
       "horarioInicio": "16:00",
       "horarioFim": "18:00",
-      "data": "12/12/201,
+      "data": "2012-12-12",
       "serivco_id": 2
     },
     {
@@ -92,7 +92,7 @@
       "vagasOcupadas": 0,
       "horarioInicio": "16:00",
       "horarioFim": "18:00",
-      "data": "12/12/201,
+      "data": "2012-12-12",
       "serivco_id": 3
     },
     {
@@ -102,7 +102,7 @@
       "vagasOcupadas": 4,
       "horarioInicio": "16:00",
       "horarioFim": "18:00",
-      "data": "12/12/201,
+      "data": "2012-12-12",
       "serivco_id": 4
     }
   ],
