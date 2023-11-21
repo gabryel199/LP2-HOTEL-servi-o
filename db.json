@@ -6,7 +6,7 @@
       "titulo": "academia",
       "descricao": "xxxxxxxxxxxx",
       "valorhorario": 5.50,
-      "status": "ativo",
+      "status": 1,
       "tipoReserva": true,
       "hotel_id": 1,
       "tipoServico_id": 1
@@ -16,7 +16,7 @@
       "titulo": "spa",
       "descricao": "xxxxxxxxxxxx",
       "valorhorario": 5.50,
-      "status": "ativo",
+      "status": 1,
       "tipoReserva": true,
       "hotel_id": 1,
       "tipoServico_id": 2
@@ -26,7 +26,7 @@
       "titulo": "quadra de tenis",
       "descricao": "xxxxxxxxxxxx",
       "valorhorario": 5.50,
-      "status": "ativo",
+      "status": 1,
       "tipoReserva": true,
       "hotel_id": 1,
       "tipoServico_id": 3
@@ -36,7 +36,7 @@
       "titulo": "cafe da manha",
       "descricao": "xxxxxxxxxxxx",
       "valorhorario": 5.50,
-      "status": "ativo",
+      "status": 3,
       "tipoReserva": false,
       "hotel_id": 1,
       "tipoServico_id": 4
