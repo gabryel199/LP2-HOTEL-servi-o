@@ -26,7 +26,7 @@
       "titulo": "quadra de tenis",
       "descricao": "xxxxxxxxxxxx",
       "valorhorario": 5.50,
-      "status": 1,
+      "status": 2,
       "tipoReserva": true,
       "hotel_id": 1,
       "tipoServico_id": 3
