@@ -9,7 +9,81 @@
       "status": 1,
       "tipoReserva": true,
       "hotel_id": 1,
-      "tipoServico_id": 1
+      "tipoServico_id": 1,
+      "horarioServico": [
+                          {
+                            "id": 1,
+                            "status": "disponivel",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 4,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-13"
+                          },
+                          {
+                            "id": 2,
+                            "status": "cheio",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 10,
+                            "horarioInicio": "18:00",
+                            "horarioFim": "20:00",
+                            "data": "2023-12-13"
+                          },
+                          {
+                            "id": 3,
+                            "status": "manutenção",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 0,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-14"
+                          },
+                          {
+                            "id": 4,
+                            "status": "disponivel",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 4,
+                            "horarioInicio": "08:00",
+                            "horarioFim": "10:00",
+                            "data": "2023-12-14"
+                          },
+                          {
+                            "id": 5,
+                            "status": "disponivel",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 4,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-12"
+                          },
+                          {
+                            "id": 6,
+                            "status": "cheio",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 10,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-12"
+                          },
+                          {
+                            "id": 7,
+                            "status": "manutenção",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 0,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-12"
+                          },
+                          {
+                            "id": 8,
+                            "status": "disponivel",
+                            "vagasTotal": 10,
+                            "vagasOcupadas": 4,
+                            "horarioInicio": "16:00",
+                            "horarioFim": "18:00",
+                            "data": "2023-12-12"
+                          }
+                        ]
     },
     {
       "id": 2,
