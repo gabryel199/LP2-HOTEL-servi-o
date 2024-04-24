@@ -1,6 +1,6 @@
 {
   
-  "servico": [
+  "servicos": [
     {
       "id": 1,
       "titulo": "academia",
@@ -116,7 +116,7 @@
       "tipoServico_id": 4
     }
   ],
-  "tipoServico": [
+  "tipoServicos": [
     {
       "id": 1,
       "titulo": "ativvidade",
@@ -138,7 +138,7 @@
       "descricao": "zzzzz"
     }
   ],
-  "horarioServico": [
+  "horarioServicos": [
     {
       "id": 1,
       "status": "disponivel",
