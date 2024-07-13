@@ -180,26 +180,34 @@
       "serivco_id": 4
     }
   ],
-  "listaHorarios": [
+  "servicoSolicitados": [
     {
       "id": 1,
-      "horarioServico_id": 1,
-      "servicoReserva_id": 1
+      "quantidadeVagas":1,
+      "valorTotal":100,
+      "idServico": 1,
+      "idHospedagem": 1
     },
     {
       "id": 2,
-      "horarioServico_id": 2,
-      "servicoReserva_id": 2
+      "quantidadeVagas":2,
+      "valorTotal":100,
+      "idServico": 2,
+      "idHospedagem": 1
     },
     {
       "id": 3,
-      "horarioServico_id": 3,
-      "servicoReserva_id": 3
+      "quantidadeVagas":2,
+      "valorTotal":100,
+      "idServico": 3,
+      "idHospedagem": 1
     },
     {
       "id": 4,
-      "horarioServico_id": 4,
-      "servicoReserva_id": 4
-    }
+      "quantidadeVagas":1,
+      "valorTotal":100,
+      "idServico": 1,
+      "idHospedagem": 1
+    },
   ]
 }
